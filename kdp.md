@@ -17,7 +17,7 @@ By understanding the intersection of technology and the workplace, business lead
 
 We hope that this book provides you with valuable insights and strategies for navigating the challenges and opportunities presented by digital transformation in the workplace. Remember to stay focused on creating a culture of innovation, investing in employee training and development, and maintaining cybersecurity at all times. By continually refining your approach to technology and the workplace, you can stay ahead of the curve and achieve success in your business.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
