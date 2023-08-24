@@ -1,5 +1,3 @@
-Managing Resistance to Change
-============================================================================
 
 Resistance to change can be a significant barrier to implementing digital transformation in organizations. In this chapter, we explore strategies for managing resistance to change and promoting buy-in and support for digital transformation initiatives.
 

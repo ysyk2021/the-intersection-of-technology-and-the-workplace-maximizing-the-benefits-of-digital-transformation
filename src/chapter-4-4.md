@@ -1,5 +1,3 @@
-Developing a Strong Online Presence
-======================================================================================
 
 Creating a customer-centric experience is critical to maximizing the benefits of digital transformation in the workplace. An essential aspect of this is developing a strong online presence that engages customers and meets their needs. In this chapter, we explore methods for leveraging technology for productivity and efficiency by developing a strong online presence that delivers a customer-centric experience.
 

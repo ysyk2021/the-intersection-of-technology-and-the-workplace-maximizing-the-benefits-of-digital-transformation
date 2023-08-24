@@ -1,5 +1,3 @@
-Chapter 2: Defining Digital Transformation
-==========================================
 
 Digital transformation is a term that is often used to describe the integration of digital technology into all areas of an organization. In this chapter, we explore what digital transformation means, its drivers, and how to assess your personal digital literacy.
 

@@ -1,5 +1,3 @@
-Managing Legacy Systems and Technical Debt
-=========================================================================================
 
 Legacy systems and technical debt can present significant challenges for organizations seeking to undertake digital transformation initiatives. In this chapter, we explore strategies for managing legacy systems and technical debt to mitigate risks and ensure successful digital transformation.
 

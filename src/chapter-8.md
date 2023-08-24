@@ -1,5 +1,3 @@
-Chapter 8: Measuring the Impact of Digital Transformation
-=========================================================
 
 Digital transformation can have a significant impact on organizations, but it's important to measure that impact in order to understand how well the transformation is working and identify areas for improvement. In this chapter, we explore some strategies for measuring the impact of digital transformation.
 

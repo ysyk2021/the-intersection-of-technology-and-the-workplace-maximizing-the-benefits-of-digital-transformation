@@ -1,5 +1,3 @@
-Reflection and Self-Evaluation
-=========================================================================================
 
 As organizations embark on their digital transformation journeys, it's critical to have a clear understanding of the impact that technology is having on the workplace and the broader organization. In this chapter, we explore some of the key metrics and tools that can be used to measure the impact of digital transformation, and offer insights into how organizations can undertake self-evaluation to help drive ongoing improvement and growth.
 

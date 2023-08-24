@@ -1,5 +1,3 @@
-Managing Risk and Data Privacy
-=========================================================================================
 
 As organizations increasingly rely on digital technologies to drive business growth and innovation, it's critical to establish a secure and compliant infrastructure that can effectively manage risk and protect sensitive data from unauthorized access. In this chapter, we explore the importance of building a secure and compliant infrastructure, and offer insights into key strategies for managing risk and data privacy in the digital age.
 

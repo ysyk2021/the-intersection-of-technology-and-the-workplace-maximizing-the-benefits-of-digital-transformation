@@ -1,5 +1,3 @@
-Balancing Innovation with Practicality
-=====================================================================================
 
 Digital transformation can bring many benefits to organizations, but it's not always easy to implement. In this chapter, we explore some of the challenges and barriers that organizations may face when attempting to implement digital transformation, as well as strategies for overcoming them.
 

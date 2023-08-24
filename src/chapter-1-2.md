@@ -1,5 +1,3 @@
-Common Misconceptions About Digital Transformation
-===========================================================================
 
 As organizations continue to embrace digital technologies to drive innovation and growth, there are many misconceptions that can hinder progress and impede success. In this chapter, we explore some of the most common misconceptions about digital transformation, and offer insights into how organizations can overcome these obstacles to achieve their goals.
 

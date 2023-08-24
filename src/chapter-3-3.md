@@ -1,5 +1,3 @@
-Implementing Cloud Computing Technologies
-===========================================================================================================
 
 Leveraging technology for productivity and efficiency is critical to maximizing the benefits of digital transformation in the workplace. One key technology that can support this goal is cloud computing, which enables organizations to access computing resources over the internet. In this chapter, we explore methods for leveraging technology for productivity and efficiency by implementing cloud computing technologies.
 

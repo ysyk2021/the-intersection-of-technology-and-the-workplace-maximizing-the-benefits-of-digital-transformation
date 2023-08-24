@@ -1,5 +1,3 @@
-Developing Effective Collaboration Strategies
-===============================================================================================================
 
 Leveraging technology for productivity and efficiency is critical to maximizing the benefits of digital transformation in the workplace. One key aspect of this is developing effective collaboration strategies that enable teams to work together efficiently and effectively, regardless of location. In this chapter, we explore methods for leveraging technology for productivity and efficiency by developing effective collaboration strategies.
 

@@ -1,5 +1,3 @@
-Prioritizing Investments and Resources
-================================================================================
 
 Developing a digital strategy is critical to maximizing the benefits of digital transformation in the workplace. A digital strategy should align with business objectives, prioritize investments, and allocate resources effectively. In this chapter, we explore methods for developing a digital strategy and prioritizing investments and resources.
 

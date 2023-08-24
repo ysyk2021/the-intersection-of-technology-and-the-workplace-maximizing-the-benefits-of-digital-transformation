@@ -1,5 +1,3 @@
-Managing Talent in the Age of Automation
-===========================================================================================================
 
 The impact of technology on jobs and skills is one of the most significant challenges facing organizations in the age of automation. As technological advancements continue, many traditional roles are being replaced by automation and artificial intelligence, requiring organizations to manage talent in new and innovative ways. In this chapter, we explore methods for navigating the impact of technology on jobs and skills through effective talent management strategies.
 

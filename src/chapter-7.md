@@ -1,5 +1,3 @@
-Chapter 7: Developing a Digital Strategy
-========================================
 
 Developing a digital strategy is essential for organizations looking to maximize the benefits of digital transformation. In this chapter, we explore strategies for developing a digital strategy.
 

@@ -1,5 +1,3 @@
-Addressing Employee Concerns and Resistance
-==============================================================================================================
 
 Digital transformation has a significant impact on jobs, skills, and the workforce as a whole. Technological advancements such as automation and artificial intelligence have the potential to disrupt traditional job roles and require new skills and competencies. In this chapter, we explore methods for navigating the impact of technology on jobs and skills by addressing employee concerns and resistance.
 

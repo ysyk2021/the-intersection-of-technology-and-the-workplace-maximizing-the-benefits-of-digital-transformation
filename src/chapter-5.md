@@ -1,5 +1,3 @@
-Chapter 5: Building a Secure and Compliant Infrastructure
-=========================================================
 
 As organizations become increasingly reliant on technology, it's more important than ever to build a secure and compliant infrastructure. In this chapter, we explore some strategies for building a secure and compliant infrastructure.
 

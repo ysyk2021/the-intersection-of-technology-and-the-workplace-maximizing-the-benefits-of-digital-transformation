@@ -1,5 +1,3 @@
-Chapter 4: Creating a Customer-Centric Experience
-=================================================
 
 Creating a customer-centric experience is essential to the success of any business, and technology plays a key role in achieving this goal. In this chapter, we explore strategies for leveraging technology to create a customer-centric experience that maximizes engagement and drives business growth.
 

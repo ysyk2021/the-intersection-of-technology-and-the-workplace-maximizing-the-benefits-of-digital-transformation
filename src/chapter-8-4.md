@@ -1,5 +1,3 @@
-Adapting to Changes in the Workplace
-===============================================================================================
 
 Digital transformation initiatives can have a significant impact on the workplace, and it is essential to measure that impact in order to optimize results and ensure long-term success. In this chapter, we explore strategies for measuring the impact of digital transformation and adapting to changes in the workplace.
 

@@ -1,5 +1,3 @@
-Assessing Your Personal Digital Literacy
-====================================================================================
 
 As the business world becomes increasingly digital, it's essential for workers to have a solid grasp of technology and digital concepts in order to succeed both personally and professionally. In this chapter, we explore the concept of digital literacy and offer insights into how individuals can assess and enhance their personal digital literacy skills.
 

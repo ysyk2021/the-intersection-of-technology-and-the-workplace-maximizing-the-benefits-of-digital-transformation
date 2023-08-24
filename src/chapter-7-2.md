@@ -1,5 +1,3 @@
-Assessing Current Technology Capabilities
-===================================================================================
 
 Developing a digital strategy is a critical step in successfully implementing digital transformation initiatives. Before investing in new technologies or upgrading existing systems, it's important to assess current technology capabilities to identify strengths, weaknesses, and areas for improvement. In this chapter, we explore the steps involved in assessing current technology capabilities as part of developing a digital strategy.
 

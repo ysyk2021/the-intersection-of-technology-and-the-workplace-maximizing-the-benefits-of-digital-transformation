@@ -1,5 +1,3 @@
-Continuous Learning and Improvement
-==============================================================================================
 
 Digital transformation is a continuous process, and as such, it's critical for organizations to continuously learn and improve in order to maximize the benefits of technology. In this chapter, we explore some of the key strategies and tools that organizations can use to support continuous learning and improvement as part of their digital transformation efforts.
 

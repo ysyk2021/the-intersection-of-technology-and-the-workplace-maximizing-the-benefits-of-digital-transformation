@@ -1,5 +1,3 @@
-Tracking Progress and Measuring Results
-==================================================================================================
 
 Digital transformation can have a profound impact on organizations, affecting everything from customer experience to employee productivity. However, to fully realize the benefits of digital transformation, it is critical to track progress and measure results. In this chapter, we explore methods for measuring the impact of digital transformation and tracking progress towards strategic objectives.
 

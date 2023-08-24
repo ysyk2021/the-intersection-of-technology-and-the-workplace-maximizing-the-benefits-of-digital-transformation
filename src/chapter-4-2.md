@@ -1,5 +1,3 @@
-Utilizing Data Analytics and Insights
-========================================================================================
 
 Creating a customer-centric experience is critical to the success of digital transformation initiatives in the workplace. By placing the customer at the center of strategy and leveraging data analytics and insights, organizations can better understand customer needs and preferences, and tailor products and services accordingly. In this chapter, we explore methods for creating a customer-centric experience through data analytics and insights.
 

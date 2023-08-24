@@ -1,5 +1,3 @@
-Understanding Cybersecurity Threats
-==============================================================================================
 
 Building a secure and compliant infrastructure is critical to maximizing the benefits of digital transformation in the workplace. With increased reliance on technology, organizations must protect against cybersecurity threats to safeguard their data and assets. In this chapter, we explore methods for building a secure and compliant infrastructure by understanding cybersecurity threats.
 

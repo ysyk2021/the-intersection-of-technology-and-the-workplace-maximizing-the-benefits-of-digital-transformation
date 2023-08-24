@@ -1,5 +1,3 @@
-Chapter 6: Navigating the Impact of Technology on Jobs and Skills
-=================================================================
 
 The rise of technology has transformed the way we work. While it has brought numerous benefits, it has also changed the nature of jobs and required new skill sets. In this chapter, we explore strategies for navigating the impact of technology on jobs and skills.
 

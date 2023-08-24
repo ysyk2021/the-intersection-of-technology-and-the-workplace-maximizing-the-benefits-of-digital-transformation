@@ -1,5 +1,3 @@
-Ensuring Compliance with Regulations
-===============================================================================================
 
 Building a secure and compliant infrastructure is critical to maximizing the benefits of digital transformation in the workplace. With increased reliance on technology, organizations must ensure they are compliant with regulations related to data privacy, security, and governance. In this chapter, we explore methods for building a secure and compliant infrastructure by ensuring compliance with regulations.
 

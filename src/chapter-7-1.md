@@ -1,5 +1,3 @@
-Identifying Business Objectives and Goals
-===================================================================================
 
 Developing a digital strategy is critical to maximizing the benefits of digital transformation in the workplace. A digital strategy provides a roadmap for leveraging technology to achieve business objectives and goals. In this chapter, we explore methods for developing a digital strategy by identifying business objectives and goals.
 

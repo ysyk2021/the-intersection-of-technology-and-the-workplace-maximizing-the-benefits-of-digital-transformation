@@ -1,5 +1,3 @@
-Improving Customer Engagement Through Social Media
-=====================================================================================================
 
 Social media has revolutionized the way organizations engage with customers. It provides a platform for real-time, two-way communication, enabling organizations to build relationships with customers and foster brand loyalty. In this chapter, we explore the role of social media in creating a customer-centric experience and strategies for improving customer engagement through social media.
 
